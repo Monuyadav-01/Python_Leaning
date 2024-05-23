@@ -23,3 +23,6 @@ this is multi line comments
 """
 # a = b = c = "orange"
 # print(a,b,c)
+a = "10"
+b= 20
+print(a + str(b))
